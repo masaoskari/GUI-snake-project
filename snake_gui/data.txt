@@ -1,0 +1,8 @@
+Masa;1200;
+Tupu;900;
+akuankka;700;
+random;650;
+Hessu;400;
+Batman;200;
+Mikki;53;
+Jokeri;20;
